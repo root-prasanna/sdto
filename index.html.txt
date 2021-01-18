@@ -1,0 +1,7 @@
+<html>
+<head>
+</head>
+<body>
+Subdomain Take Over
+</body>
+</html>
